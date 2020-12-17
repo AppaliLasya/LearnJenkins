@@ -1,0 +1,7 @@
+C:\Users\Lasya\source\repos\SampleJenkins\SampleJenkins\bin\Debug\SampleJenkins.exe.config
+C:\Users\Lasya\source\repos\SampleJenkins\SampleJenkins\bin\Debug\SampleJenkins.exe
+C:\Users\Lasya\source\repos\SampleJenkins\SampleJenkins\bin\Debug\SampleJenkins.pdb
+C:\Users\Lasya\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.csprojAssemblyReference.cache
+C:\Users\Lasya\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Lasya\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.exe
+C:\Users\Lasya\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.pdb
